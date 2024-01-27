@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;1,300&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color:  #f3e5d8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family:sans-serif ;
+  height: 323vh;
+}
+.main_body{
+  background-color: aliceblue;
+  width: 107vh;
+  height: 276vh;
+  margin-top: -30vh;
+  border-radius: 36px;
+
+}
+.img{
+  width: 94vh;
+  margin: 6vh;
+  border-radius: 17px;
+}
+.main_body_heading{
+  margin-left: 6vh;
+}
+.discription{
+  font-family:"Poppins" ;
+  font-weight: 200;
+  margin-top: 2vh;
+  margin-left: 6vh;
+}
+.list1{
+  background: #E7BCDE;
+  margin: 6vh;
+  border-radius: 2vh;
+  width: 95vh;
+  height: 22vh;
+}
+.heading1_1{
+  padding: 2vh;
+  color: #400c22;
+}
+.ul1{
+  padding-left: 6vh;
+  padding-top: 0vh;
+}
+.li1{
+  padding-left: 2vh;
+  padding-top: 1vh;
+}
+.list2{
+  background: transparent;
+  margin: 6vh;
+  border-radius: 2vh;
+  width: 95vh;
+  height: 32vh;
+}
+.heading1_2{
+  padding: 2vh;
+  color: #7d4c3b;
+}
+.ul2{
+  padding-left: 4vh;
+  padding-top: 1vh;
+}
+.li2{
+  padding-left: 2vh;
+  padding-top: 2vh;
+}
+.hr{
+  color: lightgray;
+  padding-left: 2vh;
+}
+.hr_main{
+  padding-left: 4vh;
+  width: 94vh;
+  margin: 1vh;
+}
+.list3{
+  background: transparent;
+  margin: 6vh;
+  border-radius: 2vh;
+  width: 95vh;
+  height: 56vh;
+}
+.heading1_3{
+  padding: 2vh;
+  color: #7d4c3b;
+}
+.ol1{
+  padding-left: 4vh;
+  padding-top: 1vh;
+  color: #7d4c3b;
+}
+.li3{
+  padding-left: 2vh;
+  padding-top: 3vh;
+}
+.b1{
+  color: rgb(35, 34, 34);
+}
+.m1{
+  color: rgb(61, 59, 59);
+}
+.list4{
+  background: transparent;
+  margin: 6vh;
+  border-radius: 2vh;
+  width: 95vh;
+  height: 56vh;
+}
+.heading1_4{
+  margin-left: 2vh;
+  color: #7d4c3b;
+}
+.para{
+  font-family:"Poppins" ;
+  font-weight: 200;
+  margin-top: 3vh;
+  margin-left: 2vh;
+  margin-bottom: 6vh;
+
+}
+.span1{
+  margin-left: 2vh;
+  margin-top: 4vh;
+  display: flex;
+  color: #7d4c3b;
+}
+.p1{
+  color: gray;
+  font-size: 3vh;
+}
+.p2{
+  font-size: 3vh;
+  margin-left: 38vh;
+}
+.hr2{
+  width: 92vh;
+  margin-top: 3vh;
+}
+.p3{
+  font-size: 3vh;
+  margin-left: 41vh;
+}
+.p4{
+  font-size: 3vh;
+  margin-left: 39vh;
+}
+.p5{
+  font-size: 3vh;
+  margin-left: 44vh;
+}
